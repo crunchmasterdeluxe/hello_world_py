@@ -7,12 +7,12 @@ Hello World
 Purpose of software:
 Intro to Python Language
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/nHNKE41KeWU)
 
 # Development Environment
 
 Tools Used:
-VS Code on MacOS to code and run python
+VS Code on MacOS to code and run python. This took about 20 minutes to put together.
 
 Language Used:
 Python
